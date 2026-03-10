@@ -1,0 +1,8 @@
+Title: trig
+
+Diff: Hard
+
+Desc:
+trig trig trig trig trig trig trig trig trig trig trig trig trig trig trig trig trig trig trig trig
+
+Provided: trig.py, output.txt
