@@ -1,6 +1,6 @@
 # trig
 
-Let $\mathrm{a} = 0.021615425644724543...$, $f = \mathrm{bytes\_to\_long(\texttt{flag})}$
+Let $\mathrm{a} = 0.021615425644724543...$, $f = \mathrm{bytes\\_to\\_long(\texttt{flag})}$
 
 $$
 \begin{aligned}
